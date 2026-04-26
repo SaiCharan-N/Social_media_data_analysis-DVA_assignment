@@ -2,6 +2,7 @@
 # 📊 DVA Assignment 2 – Reddit Data Analysis
 
 > ⚠️ **Note:** This project is part of an academic assignment.
+> 
 > 🙏 **Credits:** Guidance and mentorship for this work were provided by **P. Srikanth**.
 
 ---
