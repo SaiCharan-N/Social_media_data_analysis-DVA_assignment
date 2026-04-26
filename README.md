@@ -138,6 +138,9 @@ This project demonstrates how Reddit data can be effectively analyzed using DVA 
 ---
 
 ## 📬 Contact
+Mentor: P. Srikanth
+
+GitHub: https://github.com/srikanth5
 
 **Nagarapu Sai Charan**
 
