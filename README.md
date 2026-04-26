@@ -83,7 +83,7 @@ DVA-Assignment-2/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/SaiCharan-N/Social_media_data_analysis-DVA_assignment.git>
    ```
 2. Open the notebook:
 
