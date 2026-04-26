@@ -30,6 +30,42 @@ The dataset includes Reddit posts and associated metadata such as timestamps, us
 * **Tools:** Jupyter Notebook
 
 ---
+## 📊 Dataset Overview
+
+This project uses the **“1 Million Reddit Comments from 40 Subreddits”** dataset sourced from Kaggle. It contains a large collection of Reddit comments extracted from multiple subreddits, providing a rich base for analyzing user interactions and discussion patterns.
+
+* **Source:** https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subreddits
+* **License:** CC0-1.0 (Public Domain)
+* **Size:** ~178 MB (CSV file)
+* **Time Period:** May 2019
+
+---
+
+## 🧾 Dataset Description
+
+The dataset consists of approximately **1 million Reddit comments** collected from **40 different subreddits**. Each entry represents a user comment along with relevant metadata.
+
+### **Key Features Include:**
+
+* Comment text
+* Subreddit name
+* Timestamp of the comment
+* User-related information
+* Engagement-related attributes
+
+This dataset is well-suited for:
+
+* Text analysis and Natural Language Processing (NLP)
+* Trend and sentiment analysis
+* User behavior analysis
+* Data visualization of social media activity
+
+---
+
+## 📁 Data File
+
+* `kaggle_RC_2019-05.csv` — Main dataset file containing all Reddit comments and associated metadata.
+
 
 ## 🔄 Workflow
 
