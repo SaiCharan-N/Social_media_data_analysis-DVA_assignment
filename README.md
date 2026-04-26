@@ -1,5 +1,5 @@
 # Social_media_data_analysis-DVA_assignment
-# 📊 DVA Assignment 2 – Reddit Data Analysis
+# 📊Reddit Data Analysis
 
 > ⚠️ **Note:** This project is part of an academic assignment.
 > 
